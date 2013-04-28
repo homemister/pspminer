@@ -1,0 +1,4 @@
+pspminer
+========
+
+Bitcoin PSP Miner
